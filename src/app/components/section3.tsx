@@ -37,7 +37,7 @@ export const Section3 = () => (
             </Flex>
             <Image
                 padding="24px"
-                src="/screen1.png"
+                src="/screen2.png"
                 alt="INSERT_ALT"
                 // width="60%"
                 // height="60%"
